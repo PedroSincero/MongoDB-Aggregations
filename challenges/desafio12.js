@@ -32,3 +32,5 @@ db.trips.aggregate([{
     }
   }
 ]);
+
+// Agradecimentos a -- Leandro Reis Turma 10 tribo B - pela explicação dos _id

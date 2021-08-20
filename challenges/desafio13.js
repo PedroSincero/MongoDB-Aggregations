@@ -45,3 +45,5 @@ db.trips.aggregate([{
     }
   }
 ]);
+
+// Agradecimentos a -- Jefferson Andrade Turma 10 tribo B - pela explicação dos and
