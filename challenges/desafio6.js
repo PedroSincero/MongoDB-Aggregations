@@ -39,3 +39,5 @@ db.movies.aggregate([{
     }
   }
 ]);
+
+// Agradecimendos a Leandro Reis Turma 10 - Tribo B, pelo auxilio no regex
